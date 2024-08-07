@@ -1,5 +1,2 @@
 # Gallery
-Html
-Css
-Grid Css
-Responsive Design
+Html / Css / Grid Css / Responsive Design
